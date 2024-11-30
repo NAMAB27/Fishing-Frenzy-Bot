@@ -1,5 +1,5 @@
 import { HttpsProxyAgent } from 'https-proxy-agent';
-export const header = "reference-code/verify?code=JDA5MF"
+export const header = "reference-code/verify?code=G6292Q"
 import { logger } from './logger.js';
 export function createProxyAgent(proxyUrl) {
     if (!proxyUrl) {
